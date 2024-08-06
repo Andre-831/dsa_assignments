@@ -1,0 +1,17 @@
+insert 10
+insert 20
+insert 30
+insert 15
+insert 5
+search 10
+search 25
+delete 10
+inorder
+preorder
+postorder
+min
+max
+predecessor 15
+successor 15
+predecessor 5
+successor 30
